@@ -1,0 +1,178 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Wencke",
+                "last": "Stefan"
+            },
+            "location": {
+                "street": {
+                    "number": 8776,
+                    "name": "Buchenweg"
+                },
+                "city": "Meersburg",
+                "state": "Hessen",
+                "country": "Germany",
+                "postcode": 89736,
+                "coordinates": {
+                    "latitude": "-43.9876",
+                    "longitude": "134.3184"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "wencke.stefan@example.com",
+            "login": {
+                "uuid": "fd7ce286-e071-4781-9891-6455a3ccb8ed",
+                "username": "beautifulgorilla375",
+                "password": "maxine",
+                "salt": "bBgDIfYF",
+                "md5": "a7390c62fb08614767c9668b66a33afa",
+                "sha1": "8aa08906862c3d494cb99c849968efcdcff44fbb",
+                "sha256": "7bf17a23adb2e63ddefe09da5c5dd7103aa5aa3ef45296a07c9e597e4c2cb60d"
+            },
+            "dob": {
+                "date": "1961-10-19T11:58:47.783Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2007-11-20T22:32:28.195Z",
+                "age": 15
+            },
+            "phone": "0278-7588442",
+            "cell": "0170-6095701",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/64.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+            },
+            "nat": "DE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Monsieur",
+                "first": "Edmond",
+                "last": "Fabre"
+            },
+            "location": {
+                "street": {
+                    "number": 4115,
+                    "name": "Rue de la Barre"
+                },
+                "city": "Felben-Wellhausen",
+                "state": "Aargau",
+                "country": "Switzerland",
+                "postcode": 2092,
+                "coordinates": {
+                    "latitude": "-2.5259",
+                    "longitude": "-9.0068"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "edmond.fabre@example.com",
+            "login": {
+                "uuid": "31a0f9c0-2263-44a6-a400-1a700a547f31",
+                "username": "yellowduck160",
+                "password": "hilton",
+                "salt": "hNBcaPuq",
+                "md5": "172db9aa518faf54d5e0f56a816e422b",
+                "sha1": "8a1bd3feca06bdbc61a825a26124dd9d6e0cce97",
+                "sha256": "d3c5a81a0548c74f90ed6dcf27916bf8f9f2769f1ce8e59ce1a1259b6767d22d"
+            },
+            "dob": {
+                "date": "1968-07-03T10:29:54.264Z",
+                "age": 54
+            },
+            "registered": {
+                "date": "2008-05-18T12:09:52.533Z",
+                "age": 14
+            },
+            "phone": "076 400 86 64",
+            "cell": "078 902 37 59",
+            "id": {
+                "name": "AVS",
+                "value": "756.5340.9996.60"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/3.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Batur",
+                "last": "Nalbantoğlu"
+            },
+            "location": {
+                "street": {
+                    "number": 2909,
+                    "name": "Tunalı Hilmi Cd"
+                },
+                "city": "Erzurum",
+                "state": "Antalya",
+                "country": "Turkey",
+                "postcode": 51838,
+                "coordinates": {
+                    "latitude": "-10.6301",
+                    "longitude": "-53.3762"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "batur.nalbantoglu@example.com",
+            "login": {
+                "uuid": "013700e9-969e-4035-88e8-570effa90e01",
+                "username": "smallrabbit928",
+                "password": "lambert",
+                "salt": "5HFd90af",
+                "md5": "f60a44d768569e3b2f5acc375c3c1885",
+                "sha1": "b00ac9b4a0e22539ef6e34b1bede5b0ca5a3d19b",
+                "sha256": "2e33552d64a95990ed21695f1edcd1162e444080c488b6efb367e3541403f470"
+            },
+            "dob": {
+                "date": "1998-08-30T08:30:28.568Z",
+                "age": 24
+            },
+            "registered": {
+                "date": "2004-03-02T21:46:51.529Z",
+                "age": 18
+            },
+            "phone": "(855)-091-8514",
+            "cell": "(912)-602-1590",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/28.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+            },
+            "nat": "TR"
+        }
+    ],
+    "info": {
+        "seed": "27cb9becd4cbe286",
+        "results": 3,
+        "page": 1,
+        "version": "1.3"
+    }
+}
